@@ -1,4 +1,8 @@
 body{
     background-color: powderblue;
     color: violet;
+
+}
+div.header{
+    background-color: white;
 }
